@@ -5,6 +5,9 @@
 
 
 /*banner*/
+#section-banners img {
+    height: 500px;
+}
 
 /*Produtos vendidos*/
 /*Rodapé*/
