@@ -1,1 +1,0 @@
-Um site de vendas que estou desenvolvendo para atividade do curso
