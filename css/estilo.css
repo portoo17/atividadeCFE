@@ -52,6 +52,12 @@ footer p {
 
 /*Botão Voltar topo*/
 
+#voltar-topo {
+position: fixed;
+bottom: 5px;
+right: 50px;
+}
+
 /* página de login  */
 
 
